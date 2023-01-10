@@ -29,7 +29,7 @@ const menu = [
     category: "breakfast",
     price: 20.99,
     img: "./images/item-4.jpeg",
-    desc: `Sunny side eggs, crunchy has browns and buttered toast`,
+    desc: `Sunny side eggs, crunchy has browns and buttered toast.`,
   },
   {
     id: 5,
@@ -53,7 +53,7 @@ const menu = [
     category: "breakfast",
     price: 8.99,
     img: "./images/item-7.jpeg",
-    desc: `Buttery biscuit sandwhich with eggs, cheese and a quarter pound of bacon strips `,
+    desc: `Buttery biscuit sandwhich with eggs, cheese and a quarter pound of bacon strips. `,
   },
   {
     id: 8,
